@@ -24,23 +24,23 @@ Copy `VIDEOPOKER.HEX` and `VIDEOPOKER.INF` from the `bin/` folder to your SD car
 
 During the bet round, use **Up** or **Down** to increase or decrease your bet. The minimum bet is $5 and the maximum is $100. Press **B** to deal the cards. Select cards using **Left** or **Right**. Press button **A** to toggle Hold / Unhold on the selected card. Press **B** to exchange unheld cards for new ones from the deck. Winning hands and rewards are as follows:
 
-Royal Flush: 250 * Bet
+**Royal Flush:** 250 x Bet
 
-Straight Flush: 50 * Bet
+**Straight Flush:** 50 x Bet
 
-Four of a Kind: 25 * Bet
+**Four of a Kind:** 25 x Bet
 
-Full House: 9 * Bet
+**Full House:** 9 x Bet
 
-Flush: 6 * Bet
+**Flush:** 6 x Bet
 
-Straight: 4 * Bet
+**Straight:** 4 x Bet
 
-Three of a Kind: 3 * Bet
+**Three of a Kind:** 3 x Bet
 
-Two Pair: 2 * Bet
+**Two Pair:** 2 x Bet
 
-Pair of Jacks or Better: 1 * Bet
+**Pair of Jacks or Better:** 1 x Bet
 
 ### License
 
