@@ -8,7 +8,7 @@ A 5-card poker game for [Gamebuino Classic](http://gamebuino.com) and [MAKERbuin
 
 ## Installation
 
-Copy `VIDEOPOKER.HEX` and `VIDEOPOKER.INF` from the `bin/` folder to your SD card.
+Copy `POKER.HEX` and `POKER.INF` from the `bin/` folder to your SD card.
 
 ## Instructions
 
