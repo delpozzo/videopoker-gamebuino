@@ -22,7 +22,9 @@ Copy `VIDEOPOKER.HEX` and `VIDEOPOKER.INF` from the `bin/` folder to your SD car
 
 ### Gameplay
 
-During the bet round, use **Up** or **Down** to increase or decrease your bet. The minimum bet is $5 and the maximum is $100. Press **B** to deal the cards. Select cards using **Left** or **Right**. Press button **A** to toggle Hold / Unhold on the selected card. Press **B** to exchange unheld cards for new ones from the deck. Winning hands and rewards are as follows:
+During the bet round, use **Up** or **Down** to increase or decrease your bet. The minimum bet is $5 and the maximum is $100. Press **B** to deal the cards. Select cards using **Left** or **Right**. Press **A** to toggle Hold on the selected card. Press **B** to exchange unheld cards for new ones from the deck. 
+
+Winning hands and rewards are as follows:
 
 **Royal Flush:** 250 x Bet
 
