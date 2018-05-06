@@ -366,7 +366,7 @@ void displayCards()
 
 void displayWin()
 {
-  if(winTimer < WINFLASHTIME>>1)
+  if(winTimer < WINFLASHTIME>>1 || (Hand[0]->flipTimer + Hand[1]->flipTimer + Hand[2]->flipTimer + Hand[3]->flipTimer + Hand[4]->flipTimer > 0))
   {
     displayCards();
   }
