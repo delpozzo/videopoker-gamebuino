@@ -2,8 +2,8 @@
 //          Title: Video Poker
 //         Author: Mike Del Pozzo
 //    Description: A 5-card poker game for Gamebuino Classic and MAKERbuino.
-//        Version: 1.0.0
-//           Date: 15 Apr 2018
+//        Version: 1.0.1
+//           Date: 06 May 2018
 //        License: GPLv3 (see LICENSE)
 //
 //    Video Poker for Gamebuino Copyright (C) 2018 Mike Del Pozzo
